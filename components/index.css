@@ -1,0 +1,12 @@
+h1{
+  margin-top: 15px;
+}
+.author{
+  font-size: 17px;
+  /* background: red; */
+}
+.date{
+  font-size:14px;
+  margin-left: 10px;
+  color:#7C7C7C;
+}
